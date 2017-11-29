@@ -1,0 +1,6 @@
+framework module Pods_EmployeeRegistrationExample {
+  umbrella header "Pods-EmployeeRegistrationExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
